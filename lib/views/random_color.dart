@@ -150,12 +150,3 @@ class RandomColor extends StatelessWidget {
     );
   }
 }
-
-class Lulu extends StatelessWidget {
-  const Lulu({Key? key}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return Container();
-  }
-}
